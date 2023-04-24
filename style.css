@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+    background-color: black;
+}
+
+.my {
+    color: white;
+    padding-left: 20px;
+}
+
+.cloud {
+    color: aqua;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    background-color: skyblue;
+    text-align: right;
+    text-decoration: underline;
+    padding-right: 20px;
+
+}
